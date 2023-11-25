@@ -1,0 +1,14 @@
+4/7 10:05:29.648  Connecting to Battle.net...
+4/7 10:05:29.713  Trying to load ws2_32.dll
+4/7 10:05:29.713      querying gateway
+4/7 10:05:29.768      searching for the fastest server
+4/7 10:05:29.926      connected to server
+4/7 10:05:29.970  Connected to server 213.248.106.67
+4/7 10:05:29.970      Validating ID
+4/7 10:05:29.970  connected to server
+4/7 10:05:30.031  connected to server
+4/7 10:05:30.076  connected to server
+4/7 10:05:30.275      requesting latest version
+4/7 10:05:31.481  user's cdkey is for a different product
+4/7 10:05:37.698  Disconnecting from server
+4/7 10:05:37.698  Could not connect to Battle.net
